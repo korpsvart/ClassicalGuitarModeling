@@ -1,5 +1,7 @@
 # ClassicalGuitarModeling
 
+The Fusion 360 parametric guitar model can be obtained at: [Fusion 360 model](https://a360.co/3PP2sKr).
+
 
 # Folder and files organization
 
